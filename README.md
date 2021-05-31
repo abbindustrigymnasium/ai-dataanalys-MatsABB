@@ -16,5 +16,8 @@ Jag använder Google Collab för att träna bilderna till AIn.
 ### YOLO
 Yolo är ett verktyg som används för att finna objekt när du tränar bilder.
 
+### Packages
+![image](https://user-images.githubusercontent.com/56930075/120240271-6f024200-c260-11eb-9371-b76bce3c7046.png)
+
 ## Otillräckligt med tid för min kunskapsnivå
 Vi hade ca 10h lektionstid till AI projektet. Det låter som en väldigt lång tid men efter att ha spenderat mycket av den tiden på att lära mig hur saker fungerar mer nogrannt och över huvudtaget komma på ett roligt projekt att göra var det inte tillräckligt för att ro det i land. Jag har därmed testat mig runt med olika exempelkoder etc. Jag tror att jag skulle kunna färdigställa min ide under sommaren alternativt nu när jag tycker mig förstå OpenCV, YOLO och Google Collab.
