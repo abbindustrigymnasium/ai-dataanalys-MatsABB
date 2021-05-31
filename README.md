@@ -7,3 +7,9 @@ Tanken med projektet var att göra en AI som kan identifiera ens level på mobil
 
 ![image](https://user-images.githubusercontent.com/56930075/120228754-1163fa80-c24c-11eb-8bde-9b60ddb58b2c.png)
 
+## Uppbygnad
+### OpenCV
+Biblioteket jag använder för att underlätta algoritmerna är OpenCV
+
+### Google Collab
+Jag tar användning av Google Collab för att träna bilderna till AIn.
