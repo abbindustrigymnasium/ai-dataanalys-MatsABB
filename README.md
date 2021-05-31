@@ -12,4 +12,4 @@ Tanken med projektet var att göra en AI som kan identifiera ens level på mobil
 Biblioteket jag använder för att underlätta algoritmerna är OpenCV
 
 ### Google Collab
-Jag tar användning av Google Collab för att träna bilderna till AIn.
+Jag använder Google Collab för att träna bilderna till AIn.
