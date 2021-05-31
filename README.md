@@ -13,3 +13,5 @@ Biblioteket jag använder för att underlätta algoritmerna är OpenCV
 
 ### Google Collab
 Jag använder Google Collab för att träna bilderna till AIn.
+### YOLO
+Yolo är ett verktyg som används för att finna objekt. 
